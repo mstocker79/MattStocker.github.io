@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(3, 24, 37, 0.521);
+   } 
+
+
+   hr {
+
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    width: 100%;
+   }
+
+   h1 {
+    color: #66BFBF;
+   }
+
+   h2 {
+    text-align: center;
+   }
+   h3 {
+    color: #66BFBF;
+   }
+
+   .work {
+    text-align: center;
+   }
+
+#center {
+    text-align: center;
+}
+
+.size {
+    width: 800px;
+    height: 800px;
+    padding: 20px;
+}
